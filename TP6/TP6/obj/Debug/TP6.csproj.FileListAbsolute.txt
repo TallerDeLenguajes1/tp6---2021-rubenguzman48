@@ -1,0 +1,10 @@
+C:\Users\Servidor\source\repos\TP6\TP6\bin\Debug\TP6.exe.config
+C:\Users\Servidor\source\repos\TP6\TP6\bin\Debug\TP6.exe
+C:\Users\Servidor\source\repos\TP6\TP6\bin\Debug\TP6.pdb
+C:\Users\Servidor\source\repos\TP6\TP6\obj\Debug\TP6.csproj.AssemblyReference.cache
+C:\Users\Servidor\source\repos\TP6\TP6\obj\Debug\TP6.Form1.resources
+C:\Users\Servidor\source\repos\TP6\TP6\obj\Debug\TP6.Properties.Resources.resources
+C:\Users\Servidor\source\repos\TP6\TP6\obj\Debug\TP6.csproj.GenerateResource.cache
+C:\Users\Servidor\source\repos\TP6\TP6\obj\Debug\TP6.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\source\repos\TP6\TP6\obj\Debug\TP6.exe
+C:\Users\Servidor\source\repos\TP6\TP6\obj\Debug\TP6.pdb
